@@ -1,0 +1,5 @@
+set -tmpdir "/home/ise/xilinx-repo/abcd/xst/projnav.tmp"
+set -xsthdpdir "/home/ise/xilinx-repo/abcd/xst"
+elaborate
+-ifn half_subtractor.prj
+-ifmt mixed

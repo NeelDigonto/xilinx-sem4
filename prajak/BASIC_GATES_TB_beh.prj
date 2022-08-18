@@ -1,0 +1,2 @@
+vhdl work "BASIC_GATES.vhd"
+vhdl work "BASIC_GATES_TB.vhd"

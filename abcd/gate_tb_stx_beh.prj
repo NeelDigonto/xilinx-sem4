@@ -1,0 +1,2 @@
+vhdl isim_temp "gate.vhd"
+vhdl isim_temp "gate_tb.vhd"

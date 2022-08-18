@@ -1,0 +1,6 @@
+V3 3
+FL /home/ise/xilinx-repo/abcd/subtractor.vhd 2022/05/03.15:46:57 P.20131013
+EN work/half_subtractor 1651592817 FL /home/ise/xilinx-repo/abcd/subtractor.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/half_subtractor/Behavioral 1651592818 \
+      FL /home/ise/xilinx-repo/abcd/subtractor.vhd EN work/half_subtractor 1651592817

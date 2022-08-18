@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/ise/xilinx-repo/abcd/gate_tb_isim_beh.exe" -prj "/home/ise/xilinx-repo/abcd/gate_tb_beh.prj" "work.gate_tb" 
